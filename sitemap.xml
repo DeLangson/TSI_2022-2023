@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ericecmorlaix.github.io/TSI_2022-2023/</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/TSI_2022-2023/bac_SI/</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/TSI_2022-2023/github/</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/TSI_2022-2023/notebook/</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/TSI_2022-2023/AM/modelisation_vehicule/</loc>
+         <lastmod>2022-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
